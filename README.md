@@ -1,5 +1,7 @@
 # 中小学数学知识图谱（一—九年级）
 
+> 本仓库部署地址为 **https://math-exam.simonliu.cn/**，现有 Cloudflare Worker `cn-math-taxonomy` 从本仓库 `main` 自动构建发布。推送 GitHub 后等待 Cloudflare 同步，不在本机手动上传或创建另一份部署。使用说明、原项目署名与隐私说明见本站 `/guide/`、`/privacy/`；维护步骤见 [SEO 与自动发布](docs/seo-publishing.md)。以下保留上游项目的数据来源、原站点与许可证说明。
+
 对齐《义务教育数学课程标准（2022 年版）》与人教版一–九的知识点 DAG，附**自适应前置诊断**与题库。答错会沿先修边从初中一直回溯到具体的小学知识点，并给出按年级从低到高排列的学习路径。仓库名仍是 `cn-math-taxonomy`。
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)

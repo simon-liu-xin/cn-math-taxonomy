@@ -1,0 +1,10 @@
+{
+  "id": "math-exam",
+  "origin": "https://math-exam.simonliu.cn",
+  "name": "中小学数学知识图谱",
+  "description": "一至九年级数学知识图谱与前置诊断探索工具。AI 生成的草稿，未经教师审核，结果仅供学习交流。",
+  "locales": ["zh-CN"],
+  "pages": ["/", "/diagnose/", "/guide/", "/privacy/"],
+  "sitemapPath": "/sitemap.xml",
+  "sitemapMode": "generated"
+}

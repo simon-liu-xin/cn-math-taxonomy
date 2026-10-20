@@ -1,0 +1,23 @@
+{
+  "name": "@simonliu/site-kit",
+  "version": "0.2.0",
+  "description": "Simon 多站点登记、SEO 文件生成与上线检查工具",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./index.mjs",
+    "./project-policy": "./project-policy.mjs"
+  },
+  "bin": {
+    "simon-site": "./cli.mjs"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "files": [
+    "index.mjs",
+    "cli.mjs",
+    "project-policy.mjs",
+    "README.md"
+  ]
+}
